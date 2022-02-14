@@ -6,11 +6,11 @@
     # ftp server
     server: 153.92.7.125
     # ftp username
-    username: u463842598.github	
+    username: u463842598.github
     # ftp password
     password: githubAction123
     # Server port to connect to (read your web hosts docs)
-    port: 21
+    port: # optional
     # protocol to deploy with - ftp, ftps, or ftps-legacy
     protocol: # optional
     # Folder to upload from, must end with trailing slash /
